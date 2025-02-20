@@ -20,8 +20,8 @@ pip install opencv-python numpy cvzone
 ## usage
 Clone the repository:
 
-bash
 git clone https://github.com/Rabi-Nat/Face-Object-Hand-Detect.git  
+
 cd Face-Object-Hand-Detect
 
 ## Code Explanation
